@@ -1,0 +1,32 @@
+
+.banner {
+    /* background-image: url("../../image/bg.jpg"),
+      linear-gradient(rgba(0, 0, 0, 0.9), rgba(49, 45, 45, 0.9)); */
+    /* background-color: #E9D5A5; */
+    height: 700px;
+    width:100%;
+    margin: 0  auto;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 59px;
+  }
+  .about-btn {
+    background-color: white;
+    outline: none;
+    border: none;
+    padding: 8px 40px;
+    color: black;
+  }
+  .colorch:hover{
+    color: black;
+    background-color:white;
+    transition: .2s ease-in-out;
+    
+  
+  }

@@ -1,0 +1,39 @@
+.testimonial-slider .testimonial-content {
+  padding-left: 140px;
+  padding-top: 20px;
+}
+
+.testimonial-slider .testimonial-item i {
+  position: absolute;
+  left: 0px;
+  content: "";
+  top: 0px;
+  font-size: 110px;
+}
+
+.testimonial-slider .testimonial-item p {
+  line-height: 45px;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.testimonial-slider .testimonial-item .media img {
+  border: 5px solid rgba(255, 255, 255, 0.2);
+  width: 90px;
+}
+
+.slick-dots li button::before {
+  color: #fff;
+}
+
+.slick-dots {
+  position: absolute;
+  top: 30%;
+  display: block;
+  width: 0px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  left: 104%;
+}
+
+/*# sourceMappingURL=../maps/templates/testimonial.css.map */

@@ -1,0 +1,69 @@
+[
+    [
+        {
+            "id": 1,
+            "description1": "Users can order bikes, write reviews and these will be stored in the database.",
+            "description2": "The user also can delete orders.Admin can add products, manage all products,manage all orders and also make admin too.",
+            "description3": "Firebase authentication system added (user admin)",
+            "Technology": "React, react-router, firebase,bootstrap, material-ui,react-hook-form,node js,MongoDB, express were used for this site."
+        },
+        {
+            "id": 2,
+            "description1": "Firebase authentication system added.",
+            "description2": " Applied authentication system for services details.",
+            "description3": "Fake Data /API used for services, doctors, articles.",
+            "Technology": "React, react-router, firebase,bootstrap, and tailwind-css."
+        },
+        {
+            "id": 3,
+            "description1": "Users can order any food and that will be stored in the database.",
+            "description2": "The user can also delete orders, add food & manage all orders. Firebase authentication system added (user).",
+            "description3": "Firebase authentication system added (user).",
+            "Technology": "React, react-router, firebase,bootstrap, tailwind-css, node js, MongoDB, express were used for this site"
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "img0": "https://i.ibb.co/HYjXKxM/bikehub2.png",
+            "img1": "https://i.ibb.co/hRqy0j3/bikehub-page-1.png",
+            "img2": "https://i.ibb.co/N7LJDBw/bikehub-page-2.png",
+            "img3": "https://i.ibb.co/B3XXLJH/bikehub-page-3.png",
+            "livesite": "https://bicycle-shop-121fb.web.app",
+            "github_client": "https://github.com/Naser-Rifat/Bike-Hub",
+            "github_server": "https://github.com/Naser-Rifat/Bike-Hub-Server",
+            "description1": "Users can order bikes, write reviews and these will be stored in the database.",
+            "description2": "The user also can delete orders.Admin can add products, manage all products,manage all orders and also make admin too.",
+            "description3": "Firebase authentication system added (user admin)",
+            "Technology": "React, react-router, firebase,bootstrap, material-ui,react-hook-form,node js,MongoDB, express were used for this site.",
+            "title": "A Bicycle Selling Site",
+            "name": "BikeHub",
+            "year": "November,2021"
+        },
+        {
+            "id": 2,
+            "img0": "https://i.ibb.co/JzkGfS6/food-delivery-1.jpg",
+            "img1": "https://i.ibb.co/MRbzmyy/Ahar-page-1.png",
+            "img2": "https://i.ibb.co/7jgyVNR/aahar-page-2.png",
+            "img3": "https://i.ibb.co/qLHxs4Q/ahar-page-4.png",
+            "livesite": "https://aahar-food-delivery-9e14a.web.app",
+            "github_client": "https://github.com/Naser-Rifat/Aahar-Food-Delivery",
+            "github_server": "https://github.com/Naser-Rifat/Aahar-Food-Delivery-Server",
+            "name": "Aahar",
+            "title": "A Food Delivery Site",
+            "year": "October,2021"
+        },
+        {
+            "id": 3,
+            "img0": "https://i.ibb.co/b784pnS/health-1.jpg",
+            "img1": "https://i.ibb.co/b3mYgkG/mediclinic-page-1.png",
+            "img2": "https://i.ibb.co/Bq2sFwF/mediclinic-page-2.png",
+            "img3": "https://i.ibb.co/w6rnM83/mediclinic-page-4.png",
+            "livesite": "https://medi-clinic-924d0.web.app/",
+            "github_client": "https://github.com/Naser-Rifat/Medi-Clinic",
+            "name": "MediClinic",
+            "title": "A Health Care Site ",
+            "year": "October,2021"
+        }
+    ]
+]
